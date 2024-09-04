@@ -14,7 +14,7 @@ The Belly Button Biodiversity Dashboard provides an interactive visualization of
    cd belly-button-challenge
 
 3. **Open the Dashboard:**
-   [Click here](./index.html) to open `index.html` in your preferred web browser to view and interact with the dashboard.
+   Open `index.html` in your preferred web browser to view and interact with the dashboard.
 
 4. **Deploying the Dashboard:**
    The dashboard has been deployed to GitHub Pages. View the live version [here](https://github.com/Rajamani-M/belly-button-challenge).
